@@ -24,3 +24,4 @@ public class ExampleInstrumentedTest {
         assertEquals("com.xxxhui.androidopengldemo", appContext.getPackageName());
     }
 }
+
